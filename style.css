@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+  text-decoration: underline;
+  box-sizing: border-box;
+  font-size: 2em;
+}
